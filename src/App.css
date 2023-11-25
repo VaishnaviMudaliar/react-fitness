@@ -10,7 +10,7 @@ body {
 }
 
 ::-webkit-scrollbar {
-  width: 0px;
+  width: 20px;
 }
 
 .right-arrow,
@@ -107,11 +107,11 @@ body {
 @media screen and (max-width: 1200px) {
   .detail-image {
     width: 300px;
-    height: 300px;
+    height:300px;
   }
 
   .react-horizontal-scrolling-menu--scroll-container {
-    width: 500px;
+    width:500px;
   }
 
   .left-arrow,
